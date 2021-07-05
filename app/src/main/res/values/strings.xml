@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">send_email_intent</string>
+    <string name="email_address_hint">To</string>
+    <string name="cc_hint">cc</string>
+    <string name="write_email_here_hint">Write Email here</string>
+    <string name="send_button_hint">Send</string>
+</resources>
